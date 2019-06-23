@@ -1,0 +1,240 @@
+{
+  "keys": "D:\\koa学习\\egg-view-art\\test\\fixtures\\apps\\art-view\\config\\config.default.js",
+  "view": {
+    "defaultViewEngine": "D:\\koa学习\\egg-view-art\\test\\fixtures\\apps\\art-view\\config\\config.default.js",
+    "mapping": {
+      ".art": "D:\\koa学习\\egg-view-art\\test\\fixtures\\apps\\art-view\\config\\config.default.js",
+      ".html": "D:\\koa学习\\egg-view-art\\test\\fixtures\\apps\\art-view\\config\\config.default.js"
+    },
+    "root": "D:\\koa学习\\egg-view-art\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "D:\\koa学习\\egg-view-art\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultExtension": "D:\\koa学习\\egg-view-art\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "D:\\koa学习\\egg-view-art\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "D:\\koa学习\\egg-view-art\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "D:\\koa学习\\egg-view-art\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "D:\\koa学习\\egg-view-art\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js",
+      "maxAge": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "D:\\koa学习\\egg-view-art\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "D:\\koa学习\\egg-view-art\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "D:\\koa学习\\egg-view-art\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "D:\\koa学习\\egg-view-art\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "D:\\koa学习\\egg-view-art\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "D:\\koa学习\\egg-view-art\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "D:\\koa学习\\egg-view-art\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "D:\\koa学习\\egg-view-art\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "D:\\koa学习\\egg-view-art\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "D:\\koa学习\\egg-view-art\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "D:\\koa学习\\egg-view-art\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "D:\\koa学习\\egg-view-art\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "D:\\koa学习\\egg-view-art\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "D:\\koa学习\\egg-view-art\\node_modules\\egg-watcher\\config\\config.unittest.js",
+    "eventSources": {
+      "default": "D:\\koa学习\\egg-view-art\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "D:\\koa学习\\egg-view-art\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "D:\\koa学习\\egg-view-art\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "D:\\koa学习\\egg-view-art\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "D:\\koa学习\\egg-view-art\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "D:\\koa学习\\egg-view-art\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "D:\\koa学习\\egg-view-art\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\koa学习\\egg-view-art\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\koa学习\\egg-view-art\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\koa学习\\egg-view-art\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "D:\\koa学习\\egg-view-art\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "D:\\koa学习\\egg-view-art\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "D:\\koa学习\\egg-view-art\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "D:\\koa学习\\egg-view-art\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\koa学习\\egg-view-art\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "D:\\koa学习\\egg-view-art\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "D:\\koa学习\\egg-view-art\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "D:\\koa学习\\egg-view-art\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "D:\\koa学习\\egg-view-art\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "D:\\koa学习\\egg-view-art\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "D:\\koa学习\\egg-view-art\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "D:\\koa学习\\egg-view-art\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "D:\\koa学习\\egg-view-art\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "D:\\koa学习\\egg-view-art\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "D:\\koa学习\\egg-view-art\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "D:\\koa学习\\egg-view-art\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "D:\\koa学习\\egg-view-art\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "D:\\koa学习\\egg-view-art\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "D:\\koa学习\\egg-view-art\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\koa学习\\egg-view-art\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "art": {
+    "root": "D:\\koa学习\\egg-view-art\\config\\config.default.js",
+    "cache": "D:\\koa学习\\egg-view-art\\config\\config.default.js"
+  },
+  "env": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+  "name": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+    "strict": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+      "depth": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+    "env": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+    "level": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.unittest.js",
+    "disableConsoleAfterReady": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.unittest.js",
+    "appLogName": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+    "allowDebugAtProd": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+    "logging": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+      "port": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "D:\\koa学习\\egg-view-art\\node_modules\\egg\\config\\config.default.js"
+}

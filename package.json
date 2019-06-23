@@ -1,0 +1,53 @@
+{
+  "name": "egg-view-art",
+  "version": "0.0.1",
+  "description": "egg view plugin for art-template",
+  "eggPlugin": {
+    "name": "art",
+    "dependencies": [
+      "view"
+    ]
+  },
+  "devDependencies": {
+    "autod": "^3.0.1",
+    "egg": "next",
+    "egg-bin": "^4.3.5",
+    "egg-ci": "^1.8.0",
+    "egg-mock": "^3.13.1",
+    "eslint": "^4.11.0",
+    "eslint-config-egg": "^5.1.1",
+    "mz": "^2.7.0",
+    "supertest": "^3.0.0",
+    "webstorm-disable-index": "^1.2.0"
+  },
+  "scripts": {
+    "test": "npm run lint -- --fix && npm run test-local",
+    "test-local": "egg-bin test",
+    "cov": "egg-bin cov",
+    "lint": "eslint .",
+    "ci": "npm run lint && npm run cov",
+    "autod": "autod"
+  },
+  "keywords": [
+    "egg",
+    "eggPlugin",
+    "egg-plugin",
+    "egg-view",
+    "art"
+  ],
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "files": [
+    "config",
+    "app",
+    "lib",
+    "app.js"
+  ],
+  "homepage": "https://github.com/dulinran/egg-view-art#readme",
+  "author": "DuLinRain <dulinrain@126.com>",
+  "license": "MIT",
+  "dependencies": {
+    "art-template": "^4.13.2"
+  }
+}

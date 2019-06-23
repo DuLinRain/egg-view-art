@@ -1,0 +1,530 @@
+[
+  {
+    "name": "Application Start",
+    "start": 1561271525582,
+    "end": 1561271525688,
+    "duration": 106,
+    "pid": 9532,
+    "index": 0
+  },
+  {
+    "name": "Load Plugin",
+    "start": 1561271525583,
+    "end": 1561271525590,
+    "duration": 7,
+    "pid": 9532,
+    "index": 1
+  },
+  {
+    "name": "Load Config",
+    "start": 1561271525590,
+    "end": 1561271525598,
+    "duration": 8,
+    "pid": 9532,
+    "index": 2
+  },
+  {
+    "name": "Require(0) config/config.default.js",
+    "start": 1561271525590,
+    "end": 1561271525590,
+    "duration": 0,
+    "pid": 9532,
+    "index": 3
+  },
+  {
+    "name": "Require(1) D:/koa学习/egg-view-art/node_modules/egg-session/config/config.default.js",
+    "start": 1561271525591,
+    "end": 1561271525591,
+    "duration": 0,
+    "pid": 9532,
+    "index": 4
+  },
+  {
+    "name": "Require(2) D:/koa学习/egg-view-art/node_modules/egg-security/config/config.default.js",
+    "start": 1561271525591,
+    "end": 1561271525591,
+    "duration": 0,
+    "pid": 9532,
+    "index": 5
+  },
+  {
+    "name": "Require(3) D:/koa学习/egg-view-art/node_modules/egg-jsonp/config/config.default.js",
+    "start": 1561271525591,
+    "end": 1561271525591,
+    "duration": 0,
+    "pid": 9532,
+    "index": 6
+  },
+  {
+    "name": "Require(4) D:/koa学习/egg-view-art/node_modules/egg-onerror/config/config.default.js",
+    "start": 1561271525591,
+    "end": 1561271525591,
+    "duration": 0,
+    "pid": 9532,
+    "index": 7
+  },
+  {
+    "name": "Require(5) D:/koa学习/egg-view-art/node_modules/egg-i18n/config/config.default.js",
+    "start": 1561271525591,
+    "end": 1561271525591,
+    "duration": 0,
+    "pid": 9532,
+    "index": 8
+  },
+  {
+    "name": "Require(6) D:/koa学习/egg-view-art/node_modules/egg-watcher/config/config.default.js",
+    "start": 1561271525591,
+    "end": 1561271525591,
+    "duration": 0,
+    "pid": 9532,
+    "index": 9
+  },
+  {
+    "name": "Require(7) D:/koa学习/egg-view-art/node_modules/egg-schedule/config/config.default.js",
+    "start": 1561271525591,
+    "end": 1561271525591,
+    "duration": 0,
+    "pid": 9532,
+    "index": 10
+  },
+  {
+    "name": "Require(8) D:/koa学习/egg-view-art/node_modules/egg-multipart/config/config.default.js",
+    "start": 1561271525591,
+    "end": 1561271525591,
+    "duration": 0,
+    "pid": 9532,
+    "index": 11
+  },
+  {
+    "name": "Require(9) D:/koa学习/egg-view-art/node_modules/egg-logrotator/config/config.default.js",
+    "start": 1561271525592,
+    "end": 1561271525592,
+    "duration": 0,
+    "pid": 9532,
+    "index": 12
+  },
+  {
+    "name": "Require(10) D:/koa学习/egg-view-art/node_modules/egg-static/config/config.default.js",
+    "start": 1561271525592,
+    "end": 1561271525592,
+    "duration": 0,
+    "pid": 9532,
+    "index": 13
+  },
+  {
+    "name": "Require(11) D:/koa学习/egg-view-art/node_modules/egg-view/config/config.default.js",
+    "start": 1561271525592,
+    "end": 1561271525592,
+    "duration": 0,
+    "pid": 9532,
+    "index": 14
+  },
+  {
+    "name": "Require(12) D:/koa学习/egg-view-art/config/config.default.js",
+    "start": 1561271525593,
+    "end": 1561271525593,
+    "duration": 0,
+    "pid": 9532,
+    "index": 15
+  },
+  {
+    "name": "Require(13) D:/koa学习/egg-view-art/node_modules/egg/config/config.default.js",
+    "start": 1561271525594,
+    "end": 1561271525594,
+    "duration": 0,
+    "pid": 9532,
+    "index": 16
+  },
+  {
+    "name": "Require(14) config/config.default.js",
+    "start": 1561271525595,
+    "end": 1561271525595,
+    "duration": 0,
+    "pid": 9532,
+    "index": 17
+  },
+  {
+    "name": "Require(15) D:/koa学习/egg-view-art/node_modules/egg-watcher/config/config.unittest.js",
+    "start": 1561271525596,
+    "end": 1561271525596,
+    "duration": 0,
+    "pid": 9532,
+    "index": 18
+  },
+  {
+    "name": "Require(16) D:/koa学习/egg-view-art/node_modules/egg/config/config.unittest.js",
+    "start": 1561271525597,
+    "end": 1561271525597,
+    "duration": 0,
+    "pid": 9532,
+    "index": 19
+  },
+  {
+    "name": "Load extend/application.js",
+    "start": 1561271525598,
+    "end": 1561271525603,
+    "duration": 5,
+    "pid": 9532,
+    "index": 20
+  },
+  {
+    "name": "Require(17) D:/koa学习/egg-view-art/node_modules/egg-session/app/extend/application.js",
+    "start": 1561271525598,
+    "end": 1561271525598,
+    "duration": 0,
+    "pid": 9532,
+    "index": 21
+  },
+  {
+    "name": "Require(18) D:/koa学习/egg-view-art/node_modules/egg-security/app/extend/application.js",
+    "start": 1561271525598,
+    "end": 1561271525598,
+    "duration": 0,
+    "pid": 9532,
+    "index": 22
+  },
+  {
+    "name": "Require(19) D:/koa学习/egg-view-art/node_modules/egg-jsonp/app/extend/application.js",
+    "start": 1561271525598,
+    "end": 1561271525598,
+    "duration": 0,
+    "pid": 9532,
+    "index": 23
+  },
+  {
+    "name": "Require(20) D:/koa学习/egg-view-art/node_modules/egg-logrotator/app/extend/application.js",
+    "start": 1561271525599,
+    "end": 1561271525599,
+    "duration": 0,
+    "pid": 9532,
+    "index": 24
+  },
+  {
+    "name": "Require(21) D:/koa学习/egg-view-art/node_modules/egg-view/app/extend/application.js",
+    "start": 1561271525599,
+    "end": 1561271525599,
+    "duration": 0,
+    "pid": 9532,
+    "index": 25
+  },
+  {
+    "name": "Require(22) D:/koa学习/egg-view-art/node_modules/egg-mock/app/extend/application.js",
+    "start": 1561271525599,
+    "end": 1561271525599,
+    "duration": 0,
+    "pid": 9532,
+    "index": 26
+  },
+  {
+    "name": "Require(23) app/extend/application.js",
+    "start": 1561271525600,
+    "end": 1561271525600,
+    "duration": 0,
+    "pid": 9532,
+    "index": 27
+  },
+  {
+    "name": "Load extend/request.js",
+    "start": 1561271525603,
+    "end": 1561271525609,
+    "duration": 6,
+    "pid": 9532,
+    "index": 28
+  },
+  {
+    "name": "Require(24) D:/koa学习/egg-view-art/node_modules/egg/app/extend/request.js",
+    "start": 1561271525605,
+    "end": 1561271525605,
+    "duration": 0,
+    "pid": 9532,
+    "index": 29
+  },
+  {
+    "name": "Load extend/response.js",
+    "start": 1561271525609,
+    "end": 1561271525625,
+    "duration": 16,
+    "pid": 9532,
+    "index": 30
+  },
+  {
+    "name": "Require(25) D:/koa学习/egg-view-art/node_modules/egg/app/extend/response.js",
+    "start": 1561271525612,
+    "end": 1561271525612,
+    "duration": 0,
+    "pid": 9532,
+    "index": 31
+  },
+  {
+    "name": "Load extend/context.js",
+    "start": 1561271525625,
+    "end": 1561271525630,
+    "duration": 5,
+    "pid": 9532,
+    "index": 32
+  },
+  {
+    "name": "Require(26) D:/koa学习/egg-view-art/node_modules/egg-security/app/extend/context.js",
+    "start": 1561271525625,
+    "end": 1561271525625,
+    "duration": 0,
+    "pid": 9532,
+    "index": 33
+  },
+  {
+    "name": "Require(27) D:/koa学习/egg-view-art/node_modules/egg-jsonp/app/extend/context.js",
+    "start": 1561271525625,
+    "end": 1561271525625,
+    "duration": 0,
+    "pid": 9532,
+    "index": 34
+  },
+  {
+    "name": "Require(28) D:/koa学习/egg-view-art/node_modules/egg-i18n/app/extend/context.js",
+    "start": 1561271525626,
+    "end": 1561271525626,
+    "duration": 0,
+    "pid": 9532,
+    "index": 35
+  },
+  {
+    "name": "Require(29) D:/koa学习/egg-view-art/node_modules/egg-multipart/app/extend/context.js",
+    "start": 1561271525626,
+    "end": 1561271525626,
+    "duration": 0,
+    "pid": 9532,
+    "index": 36
+  },
+  {
+    "name": "Require(30) D:/koa学习/egg-view-art/node_modules/egg-view/app/extend/context.js",
+    "start": 1561271525626,
+    "end": 1561271525626,
+    "duration": 0,
+    "pid": 9532,
+    "index": 37
+  },
+  {
+    "name": "Require(31) D:/koa学习/egg-view-art/node_modules/egg/app/extend/context.js",
+    "start": 1561271525627,
+    "end": 1561271525627,
+    "duration": 0,
+    "pid": 9532,
+    "index": 38
+  },
+  {
+    "name": "Require(32) app/extend/context.js",
+    "start": 1561271525627,
+    "end": 1561271525627,
+    "duration": 0,
+    "pid": 9532,
+    "index": 39
+  },
+  {
+    "name": "Load extend/helper.js",
+    "start": 1561271525630,
+    "end": 1561271525636,
+    "duration": 6,
+    "pid": 9532,
+    "index": 40
+  },
+  {
+    "name": "Require(33) D:/koa学习/egg-view-art/node_modules/egg-security/app/extend/helper.js",
+    "start": 1561271525631,
+    "end": 1561271525631,
+    "duration": 0,
+    "pid": 9532,
+    "index": 41
+  },
+  {
+    "name": "Require(34) D:/koa学习/egg-view-art/node_modules/egg/app/extend/helper.js",
+    "start": 1561271525633,
+    "end": 1561271525633,
+    "duration": 0,
+    "pid": 9532,
+    "index": 42
+  },
+  {
+    "name": "Require(35) app/extend/helper.js",
+    "start": 1561271525633,
+    "end": 1561271525633,
+    "duration": 0,
+    "pid": 9532,
+    "index": 43
+  },
+  {
+    "name": "Load app.js",
+    "start": 1561271525636,
+    "end": 1561271525639,
+    "duration": 3,
+    "pid": 9532,
+    "index": 44
+  },
+  {
+    "name": "Require(36) D:/koa学习/egg-view-art/node_modules/egg-session/app.js",
+    "start": 1561271525636,
+    "end": 1561271525636,
+    "duration": 0,
+    "pid": 9532,
+    "index": 45
+  },
+  {
+    "name": "Require(37) D:/koa学习/egg-view-art/node_modules/egg-security/app.js",
+    "start": 1561271525636,
+    "end": 1561271525636,
+    "duration": 0,
+    "pid": 9532,
+    "index": 46
+  },
+  {
+    "name": "Require(38) D:/koa学习/egg-view-art/node_modules/egg-onerror/app.js",
+    "start": 1561271525637,
+    "end": 1561271525637,
+    "duration": 0,
+    "pid": 9532,
+    "index": 47
+  },
+  {
+    "name": "Require(39) D:/koa学习/egg-view-art/node_modules/egg-i18n/app.js",
+    "start": 1561271525637,
+    "end": 1561271525637,
+    "duration": 0,
+    "pid": 9532,
+    "index": 48
+  },
+  {
+    "name": "Require(40) D:/koa学习/egg-view-art/node_modules/egg-watcher/app.js",
+    "start": 1561271525637,
+    "end": 1561271525637,
+    "duration": 0,
+    "pid": 9532,
+    "index": 49
+  },
+  {
+    "name": "Require(41) D:/koa学习/egg-view-art/node_modules/egg-schedule/app.js",
+    "start": 1561271525637,
+    "end": 1561271525637,
+    "duration": 0,
+    "pid": 9532,
+    "index": 50
+  },
+  {
+    "name": "Require(42) D:/koa学习/egg-view-art/node_modules/egg-multipart/app.js",
+    "start": 1561271525637,
+    "end": 1561271525637,
+    "duration": 0,
+    "pid": 9532,
+    "index": 51
+  },
+  {
+    "name": "Require(43) D:/koa学习/egg-view-art/node_modules/egg-logrotator/app.js",
+    "start": 1561271525637,
+    "end": 1561271525637,
+    "duration": 0,
+    "pid": 9532,
+    "index": 52
+  },
+  {
+    "name": "Require(44) D:/koa学习/egg-view-art/node_modules/egg-static/app.js",
+    "start": 1561271525637,
+    "end": 1561271525637,
+    "duration": 0,
+    "pid": 9532,
+    "index": 53
+  },
+  {
+    "name": "Require(45) D:/koa学习/egg-view-art/node_modules/egg-mock/app.js",
+    "start": 1561271525638,
+    "end": 1561271525638,
+    "duration": 0,
+    "pid": 9532,
+    "index": 54
+  },
+  {
+    "name": "Require(46) D:/koa学习/egg-view-art/app.js",
+    "start": 1561271525638,
+    "end": 1561271525638,
+    "duration": 0,
+    "pid": 9532,
+    "index": 55
+  },
+  {
+    "name": "Before Start in D:/koa学习/egg-view-art/node_modules/egg-watcher/lib/init.js:15:14",
+    "start": 1561271525646,
+    "end": 1561271525686,
+    "duration": 40,
+    "pid": 9532,
+    "index": 56
+  },
+  {
+    "name": "Load Service",
+    "start": 1561271525652,
+    "end": 1561271525656,
+    "duration": 4,
+    "pid": 9532,
+    "index": 57
+  },
+  {
+    "name": "Load \"service\" to Context",
+    "start": 1561271525652,
+    "end": 1561271525656,
+    "duration": 4,
+    "pid": 9532,
+    "index": 58
+  },
+  {
+    "name": "Load Middleware",
+    "start": 1561271525656,
+    "end": 1561271525664,
+    "duration": 8,
+    "pid": 9532,
+    "index": 59
+  },
+  {
+    "name": "Load \"middlewares\" to Application",
+    "start": 1561271525656,
+    "end": 1561271525663,
+    "duration": 7,
+    "pid": 9532,
+    "index": 60
+  },
+  {
+    "name": "Load Controller",
+    "start": 1561271525664,
+    "end": 1561271525664,
+    "duration": 0,
+    "pid": 9532,
+    "index": 61
+  },
+  {
+    "name": "Load \"controller\" to Application",
+    "start": 1561271525664,
+    "end": 1561271525664,
+    "duration": 0,
+    "pid": 9532,
+    "index": 62
+  },
+  {
+    "name": "Load Router",
+    "start": 1561271525664,
+    "end": 1561271525665,
+    "duration": 1,
+    "pid": 9532,
+    "index": 63
+  },
+  {
+    "name": "Require(47) app/router.js",
+    "start": 1561271525664,
+    "end": 1561271525664,
+    "duration": 0,
+    "pid": 9532,
+    "index": 64
+  },
+  {
+    "name": "Before Start in D:/koa学习/egg-view-art/node_modules/egg-core/lib/egg.js:303:10",
+    "start": 1561271525664,
+    "end": 1561271525671,
+    "duration": 7,
+    "pid": 9532,
+    "index": 65
+  }
+]

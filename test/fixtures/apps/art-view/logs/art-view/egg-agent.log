@@ -1,0 +1,4 @@
+2019-06-23 14:46:30,793 INFO 2384 [egg:logger] init all loggers with options: {"dir":"D:\\koa学习\\egg-view-art\\test\\fixtures\\apps\\art-view\\logs\\art-view","encoding":"utf8","env":"unittest","level":"INFO","consoleLevel":"WARN","disableConsoleAfterReady":false,"outputJSON":false,"buffer":false,"appLogName":"art-view-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"agent"}
+2019-06-23 14:46:30,812 INFO 2384 [egg:core] dump config after load, 6ms
+2019-06-23 14:46:30,822 INFO 2384 [egg-watcher:agent] watcher start success
+2019-06-23 14:46:30,830 INFO 2384 [egg:core] dump config after ready, 7ms

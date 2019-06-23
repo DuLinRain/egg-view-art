@@ -1,0 +1,6 @@
+2019-06-23 14:46:30,891 INFO 2384 [egg-schedule]: register schedule D:\koa学习\egg-view-art\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-23 14:46:30,891 INFO 2384 [egg-schedule]: register schedule D:\koa学习\egg-view-art\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-23 14:46:30,891 INFO 2384 [egg-schedule]: register schedule D:\koa学习\egg-view-art\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-23 14:46:30,924 INFO 2384 [Timer] D:\koa学习\egg-view-art\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 49409077ms at 2019-06-24 04:30:00.001
+2019-06-23 14:46:30,924 INFO 2384 [Timer] D:\koa学习\egg-view-art\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 33209076ms at 2019-06-24 00:00:00.000
+2019-06-23 14:46:30,925 INFO 2384 [Timer] D:\koa学习\egg-view-art\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 33210076ms at 2019-06-24 00:00:01.001
